@@ -1,0 +1,33 @@
+--- VM1 (mig-p62-3wgk) ---
+INFO 2025-11-15T14:42:42.428778976Z OSConfig Agent (version 20251028.00-g1) started
+INFO 2025-11-15T14:42:43.142350113Z Initializing Google Guest Agent
+INFO 2025-11-15T14:42:43.144499702Z Plugin manager initialized, installing GuestAgentCorePlugin
+INFO 2025-11-15T14:42:43.144884170Z Successfully installed plugin GuestAgentCorePlugin_20251030.02
+INFO 2025-11-15T14:42:44.590509703Z Firstboot setup finished, public keys generated
+INFO 2025-11-15T14:42:44.590596868Z Guest Agent initialized (version: 20251030.02)
+INFO 2025-11-15T14:42:44.591044807Z Network configuration rolled back and netplan interfaces set up
+INFO 2025-11-15T14:42:44.591208571Z Cloud logging initialized
+INFO 2025-11-15T14:42:46.505666204Z Interface ens4 up with IP 10.128.0.11
+
+
+--- VM2 (mig-p62-c4nw) ---
+INFO 2025-11-15T14:42:35.935361987Z OSConfig Agent (version 20251028.00-g1) started
+INFO 2025-11-15T14:42:37.140272376Z Initializing Google Guest Agent
+INFO 2025-11-15T14:42:37.140987301Z Plugin manager initialized, installing GuestAgentCorePlugin
+INFO 2025-11-15T14:42:37.141107885Z Successfully installed plugin GuestAgentCorePlugin_20251030.02
+INFO 2025-11-15T14:42:38.281710547Z Firstboot setup finished, public keys generated
+INFO 2025-11-15T14:42:38.281806596Z Guest Agent initialized (version: 20251030.02)
+INFO 2025-11-15T14:42:38.282103644Z Network configuration rolled back and netplan interfaces set up
+INFO 2025-11-15T14:42:38.282342534Z Cloud logging initialized
+INFO 2025-11-15T14:42:40.101021578Z Interface ens4 up with IP 10.128.0.13
+
+--- VM3 (mig-p62-td9d) ---
+INFO 2025-11-15T14:42:36.972389317Z OSConfig Agent (version 20251028.00-g1) started
+INFO 2025-11-15T14:42:38.969763753Z Initializing Google Guest Agent
+INFO 2025-11-15T14:42:38.970973136Z Plugin manager initialized, installing GuestAgentCorePlugin
+INFO 2025-11-15T14:42:38.971246444Z Successfully installed plugin GuestAgentCorePlugin_20251030.02
+INFO 2025-11-15T14:42:40.620871843Z Firstboot setup finished, public keys generated
+INFO 2025-11-15T14:42:40.620942575Z Guest Agent initialized (version: 20251030.02)
+INFO 2025-11-15T14:42:40.621155398Z Network configuration rolled back and netplan interfaces set up
+INFO 2025-11-15T14:42:40.621337866Z Cloud logging initialized
+INFO 2025-11-15T14:42:42.505666204Z Interface ens4 up with IP 10.128.0.12
